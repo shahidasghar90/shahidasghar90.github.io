@@ -1,0 +1,63 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap'); */
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "OpenSans", sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-family:  SairaExtraCondensed;
+    font-size: 6rem;
+    line-height: 5.5rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: SairaExtraCondensed;
+    font-size: 3.5rem;
+    margin-bottom: 3rem;
+    color: var(--primary-darkgray-color);
+}
+
+h3 {
+    font-family: SairaExtraCondensed;
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--primary-darkgray-color);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.subheading {
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: SairaExtraCondensed;
+    font-size: 1.35rem;
+    color: var(--primary-gray-color);
+    /* margin-bottom: 1.35rem; */
+}
+
+p {
+    color: var(--primary-gray-color);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.b-m {
+    margin-bottom: var(--margin-bottom);
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    color: var(--primary-gray-color);
+    list-style: none;
+}

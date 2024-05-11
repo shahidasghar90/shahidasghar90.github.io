@@ -1,0 +1,16 @@
+:root {
+    --primary-darkgray-color: #343a40;
+    --primary-gray-color: #868e96;
+    --primary--orange-color: #bd5d38;
+    --secondary-orange-color: #fd7e14;
+    --icon-color: #fff;
+    --margin-bottom: 3rem;
+
+
+
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+}
